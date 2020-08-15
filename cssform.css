@@ -1,0 +1,25 @@
+<style type="text/css">
+		label{
+			box-sizing: 30px;
+			display: block;
+			padding: 10px;
+			font-size: 25px;
+			color: red;
+			text-align: center;
+			background-color: skyblue;
+			border-style: ridge;
+		}
+		input{
+			box-sizing: 25px;
+			display: block;
+			padding: 10px;
+			font-size: 25px;
+		}
+		h2{
+			box-sizing: 30px;
+			display: block;
+			padding: 10px;
+			font-size: 30px;
+			color: green;
+		}
+	</style>
